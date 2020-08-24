@@ -1,16 +1,16 @@
-# _{Application Name}_
+# _To Do List_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _To Do List website to add task and create a list of things to do, 08/24/2020_
 
-#### By _**Jeff Dinsmore**_
+#### By _**Jeff Dinsmore & Mandy Otero**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_This website will allow a user to add tasks creating a list of things to do. A user can confirm a task is done and remove task from the list_
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
+* _Clone this repository._
 * _to list setup instructions_
 * _in a simple_
 * _easy-to-understand_
@@ -20,11 +20,11 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_Not bugs at the moment._
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_Any known issues, please reach out to Jeff Dinsmore or Mandy Otero by email at hello@jeffdinsmore.com._
 
 ## Technologies Used
 
@@ -32,9 +32,10 @@ _{Let people know what to do if they run into any issues or have questions, idea
 * _CSS_
 * _Bootstrap_
 * _jQuery_
+* _JavaScript_
 
-### License
+## License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+Copyright (c) 2020 **_Jeff Dinsmore & Mandy Otero_**
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+This software is licensed under the MIT license.
