@@ -9,12 +9,8 @@ toDoList.prototype.addTask = function(taskItems) {
   this.task.push(taskItems);
 }
 
-
-Add
-function List(name, description, date) {
-  this.name = name;
-  this.description = description;
-  this.date = date;
+toDoList.prototype.deleteTask = function(id) {
+  
 }
 
 
@@ -23,8 +19,4 @@ function List(name, description, date) {
 
 
 
-$(document).ready(function() {
   
-  
-  event.preventDefault();
-});
